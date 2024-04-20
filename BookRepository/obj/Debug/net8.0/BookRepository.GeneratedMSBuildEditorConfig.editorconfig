@@ -9,39 +9,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BookRepository
 build_property.RootNamespace = BookRepository
-build_property.ProjectDir = C:\Users\jpmin\PV\lab-6-asp-net-identity-202000500_202001541\BookRepository\
+build_property.ProjectDir = C:\Users\storm\Source\Repos\book-depository\BookRepository\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\jpmin\PV\lab-6-asp-net-identity-202000500_202001541\BookRepository
+build_property.MSBuildProjectDirectory = C:\Users\storm\Source\Repos\book-depository\BookRepository
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/Home/Index.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/Home/Privacy.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/Shared/Error.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/_ViewImports.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/_ViewStart.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/jpmin/PV/lab-6-asp-net-identity-202000500_202001541/BookRepository/Views/Shared/_Layout.cshtml]
+[C:/Users/storm/Source/Repos/book-depository/BookRepository/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-o4yyqy0tbj

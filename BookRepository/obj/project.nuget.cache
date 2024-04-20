@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "827kxa75XjeK09V8gZmESP8ttM4J89Q81SGvKCosnuMpqlWZFFb9ko7WP1IRJdBrIdXRGaIO6/z6/UwNbMPPLw==",
+  "dgSpecHash": "qzaVy0Q3ibrf6zcrP3yqwJvpsSwpPLTFFc5t2INixhcwRLjw1GRzCix30++7KGsvBmaLiP+J49PvBoYrSSvQNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\BookRepository.csproj",
+  "projectFilePath": "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\BookRepository.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

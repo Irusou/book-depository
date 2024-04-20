@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\BookRepository.csproj": {}
+    "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\BookRepository.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\BookRepository.csproj": {
+    "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\BookRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\BookRepository.csproj",
+        "projectUniqueName": "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\BookRepository.csproj",
         "projectName": "BookRepository",
-        "projectPath": "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\BookRepository.csproj",
-        "packagesPath": "C:\\Users\\jpmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpmin\\PV\\lab-6-asp-net-identity-202000500_202001541\\BookRepository\\obj\\",
+        "projectPath": "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\BookRepository.csproj",
+        "packagesPath": "C:\\Users\\storm\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\storm\\Source\\Repos\\book-depository\\BookRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jpmin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\storm\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
